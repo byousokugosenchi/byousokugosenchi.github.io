@@ -1,0 +1,11 @@
+.box-default{
+    background-color: aqua;
+    width: 30%;
+    height: auto;
+    left: 50%;
+    top: 50%;
+    display: block;
+    padding:50px;
+    margin: auto;
+
+}
